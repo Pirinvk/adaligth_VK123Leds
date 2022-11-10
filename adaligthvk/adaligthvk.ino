@@ -31,6 +31,8 @@ const uint8_t
 #define LED_TYPE     WS2812B  // led strip type for FastLED
 #define COLOR_ORDER  GRB      // color order for bitbang                       ////////7////GRB PARA SIMHUB VK///////
 #define PIN_DATA     8        // led data output pin                       /////////PIN8 CAJA ROSA///////////////////////
+
+
 // #define PIN_CLOCK  7       // led data clock pin (uncomment if you're using a 4-wire LED type)
 
 // --- Serial Settings
